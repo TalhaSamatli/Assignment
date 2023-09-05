@@ -1,0 +1,7 @@
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\bin\Debug\First_Assignment.exe.config
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\bin\Debug\First_Assignment.exe
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\bin\Debug\First_Assignment.pdb
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\obj\Debug\First_Assignment.csproj.AssemblyReference.cache
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\obj\Debug\First_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\obj\Debug\First_Assignment.exe
+C:\Users\Talha\source\repos\First_Assignment\First_Assignment\obj\Debug\First_Assignment.pdb
