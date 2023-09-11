@@ -1,0 +1,10 @@
+Console.WriteLine("Enter the first number: ");
+double num0 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Enter the second number: ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine($"{num0} + {num1} = {num0 + num1}");
+Console.WriteLine($"{num0} - {num1} = {num0 - num1}");
+Console.WriteLine($"{num0} / {num1} = {num0 / num1}");
+Console.WriteLine($"{num0} * {num1} = {num0 * num1}");
+Console.WriteLine($"{num0} % {num1} = {num0 % num1}");
