@@ -1,0 +1,16 @@
+char num = '0';
+char num1 = '1';
+char num2 = '2';
+char num3 = '3';
+char num4 = '4';
+char num5 = '5';
+char num6 = '6';
+char num7 = '7';
+char num8 = '8';
+char num9 = '9';
+
+
+Console.WriteLine($"{ Convert.ToInt32(num)},{Convert.ToInt32(num1)},{Convert.ToInt32(num2)}" +
+    $",{Convert.ToInt32(num3)},{Convert.ToInt32(num4)},{Convert.ToInt32(num5)}," +
+    $"{Convert.ToInt32(num6)},{Convert.ToInt32(num7)},{Convert.ToInt32(num8)}," +
+    $"{Convert.ToInt32(num9)}");
